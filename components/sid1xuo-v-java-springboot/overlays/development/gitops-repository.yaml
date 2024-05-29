@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: sid1xuo-v-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/sid1xuo-v-java-springboot-gitops
